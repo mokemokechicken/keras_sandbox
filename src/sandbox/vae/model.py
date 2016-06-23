@@ -86,4 +86,3 @@ class VAEModel:
             self.load(file_path)
             return True
         return False
-
